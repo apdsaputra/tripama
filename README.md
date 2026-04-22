@@ -1,0 +1,2 @@
+# tripama
+belajar bareng
